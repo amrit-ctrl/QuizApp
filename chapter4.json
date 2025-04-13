@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Who discovered the electron?",
+        "options": [
+            "J.J. Thomson",
+            "Rutherford",
+            "Neils Bohr",
+            "Chadwick"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "2. Which particle in an atom has a negative charge?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Nucleus"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "3. What is the charge of a neutron?",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Variable"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "4. What is the center of an atom called?",
+        "options": [
+            "Electron",
+            "Nucleus",
+            "Orbit",
+            "Neutron"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "5. Who proposed the nuclear model of an atom?",
+        "options": [
+            "J.J. Thomson",
+            "Neils Bohr",
+            "Rutherford",
+            "Chadwick"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "6. Which subatomic particle was discovered by Chadwick?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Nucleus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "7. What is the mass of an electron approximately?",
+        "options": [
+            "1 amu",
+            "0.0005 amu",
+            "0.5 amu",
+            "5 amu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "8. The maximum number of electrons in the first shell is:",
+        "options": [
+            "8",
+            "2",
+            "18",
+            "32"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "9. Which of the following is a correct electronic configuration of oxygen (Atomic number 8)?",
+        "options": [
+            "2,6",
+            "6,2",
+            "2,8",
+            "8,2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "10. What is the name of the model that explains definite energy levels of electrons?",
+        "options": [
+            "Thomson Model",
+            "Rutherford Model",
+            "Bohr Model",
+            "Quantum Model"
+        ],
+        "answer": 2
+    }
+]

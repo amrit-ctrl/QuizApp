@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. Which of these is a method of improving crop production?",
+        "options": ["Use of pesticides", "Hybridization", "Organic farming", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "2. The practice of growing more than one crop at a time is known as:",
+        "options": ["Intercropping", "Crop rotation", "Monoculture", "Polyculture"],
+        "answer": 0
+    },
+    {
+        "question": "3. Which of the following is used to control weeds?",
+        "options": ["Weedicides", "Fungicides", "Pesticides", "Fertilizers"],
+        "answer": 0
+    },
+    {
+        "question": "4. Green revolution in India is associated with:",
+        "options": ["Increased food production", "Reduced use of fertilizers", "Chemical-free agriculture", "Decline in farm production"],
+        "answer": 0
+    },
+    {
+        "question": "5. Which of the following is not a type of irrigation?",
+        "options": ["Drip irrigation", "Sprinkler irrigation", "Flood irrigation", "Rain irrigation"],
+        "answer": 3
+    },
+    {
+        "question": "6. The chemical used to kill insects is called:",
+        "options": ["Fungicide", "Pesticide", "Herbicide", "Rodenticide"],
+        "answer": 1
+    },
+    {
+        "question": "7. The main aim of plant breeding is to:",
+        "options": ["Increase resistance to pests", "Increase crop yield", "Improve nutritional quality", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "8. What is the process of crossbreeding two different varieties of plants to improve yield?",
+        "options": ["Hybridization", "Inbreeding", "Selection", "Cross-pollination"],
+        "answer": 0
+    },
+    {
+        "question": "9. Which crop is mainly grown during the Rabi season?",
+        "options": ["Rice", "Wheat", "Cotton", "Sugarcane"],
+        "answer": 1
+    },
+    {
+        "question": "10. Which of these techniques is used to increase crop production?",
+        "options": ["Genetically modified crops", "Organic farming", "Bio-fertilizers", "All of the above"],
+        "answer": 3
+    }
+]

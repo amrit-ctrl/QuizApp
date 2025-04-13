@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Tissues are a group of:",
+        "options": [
+            "Cells with similar structure and function",
+            "Organs",
+            "Organ systems",
+            "Organelles"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "2. Which of the following is a simple permanent tissue?",
+        "options": [
+            "Parenchyma",
+            "Xylem",
+            "Phloem",
+            "Cambium"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "3. Which connective tissue connects muscles to bones?",
+        "options": [
+            "Ligament",
+            "Cartilage",
+            "Tendon",
+            "Areolar"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "4. Which tissue is responsible for movement in our body?",
+        "options": [
+            "Epithelial",
+            "Muscular",
+            "Nervous",
+            "Connective"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "5. Xylem helps in the transport of:",
+        "options": [
+            "Food",
+            "Minerals",
+            "Water",
+            "Hormones"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "6. Which muscle works involuntarily and is found in the heart?",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "7. Which connective tissue connects two bones?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Cartilage",
+            "Muscle"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "8. Which plant tissue is responsible for photosynthesis?",
+        "options": [
+            "Collenchyma",
+            "Parenchyma",
+            "Sclerenchyma",
+            "Xylem"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "9. Which tissue makes up the brain and spinal cord?",
+        "options": [
+            "Muscular tissue",
+            "Nervous tissue",
+            "Connective tissue",
+            "Epithelial tissue"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "10. Which is a complex permanent tissue?",
+        "options": [
+            "Xylem",
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma"
+        ],
+        "answer": 0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. Sound is produced by:",
+        "options": ["Vibrations", "Waves", "Oscillations", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "2. The speed of sound is highest in:",
+        "options": ["Air", "Water", "Steel", "Vacuum"],
+        "answer": 2
+    },
+    {
+        "question": "3. What is the unit of frequency?",
+        "options": ["Hertz", "Meter", "Second", "Joule"],
+        "answer": 0
+    },
+    {
+        "question": "4. The loudness of sound depends on:",
+        "options": ["Amplitude", "Frequency", "Speed", "Wave length"],
+        "answer": 0
+    },
+    {
+        "question": "5. The pitch of a sound is determined by:",
+        "options": ["Amplitude", "Frequency", "Speed", "Wavelength"],
+        "answer": 1
+    },
+    {
+        "question": "6. The sound that can be heard by the human ear has a frequency range of:",
+        "options": ["10 Hz to 100 Hz", "20 Hz to 20000 Hz", "100 Hz to 1000 Hz", "50 Hz to 5000 Hz"],
+        "answer": 1
+    },
+    {
+        "question": "7. Echo is produced when sound waves are reflected from a surface. This is an example of:",
+        "options": ["Reflection", "Refraction", "Diffraction", "Absorption"],
+        "answer": 0
+    },
+    {
+        "question": "8. The speed of sound depends on:",
+        "options": ["Temperature", "Medium", "Pressure", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "9. Which of these is not a longitudinal wave?",
+        "options": ["Sound waves", "Light waves", "P waves", "S waves"],
+        "answer": 1
+    },
+    {
+        "question": "10. The unit of sound intensity is:",
+        "options": ["Decibel", "Hertz", "Joule", "Newton"],
+        "answer": 0
+    }
+]

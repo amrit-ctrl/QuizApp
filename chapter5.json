@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is the fundamental unit of life?",
+        "options": [
+            "Atom",
+            "Molecule",
+            "Cell",
+            "Tissue"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "2. Which cell organelle is known as the 'brain of the cell'?",
+        "options": [
+            "Mitochondria",
+            "Nucleus",
+            "Ribosome",
+            "Golgi body"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "3. Which structure controls the movement of substances in and out of the cell?",
+        "options": [
+            "Cytoplasm",
+            "Cell membrane",
+            "Nucleus",
+            "Vacuole"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "4. Plant cells have an additional outer layer made of:",
+        "options": [
+            "Lipid",
+            "Protein",
+            "Cellulose",
+            "Starch"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "5. Which of the following is not found in an animal cell?",
+        "options": [
+            "Mitochondria",
+            "Chloroplast",
+            "Nucleus",
+            "Ribosome"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "6. The jelly-like substance present in cells is called:",
+        "options": [
+            "Plasma",
+            "Protoplasm",
+            "Cytoplasm",
+            "Nucleoplasm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "7. The functional unit of the kidney is:",
+        "options": [
+            "Neuron",
+            "Nephron",
+            "Tubule",
+            "Alveoli"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "8. The power house of the cell is:",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Chloroplast"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "9. Which organelle is responsible for protein synthesis?",
+        "options": [
+            "Lysosome",
+            "Ribosome",
+            "Golgi apparatus",
+            "Mitochondria"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "10. Which of these is found only in plant cells?",
+        "options": [
+            "Vacuole",
+            "Mitochondria",
+            "Chloroplast",
+            "Ribosome"
+        ],
+        "answer": 2
+    }
+]

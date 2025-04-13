@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. The force which opposes the motion of an object is called:",
+        "options": [
+            "Friction",
+            "Gravity",
+            "Magnetic force",
+            "Centripetal force"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "2. Which of the following is a non-contact force?",
+        "options": [
+            "Friction",
+            "Magnetic force",
+            "Tension",
+            "Normal force"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "3. Friction is a type of:",
+        "options": [
+            "Contact force",
+            "Non-contact force",
+            "Balanced force",
+            "Unbalanced force"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "4. The frictional force depends on the:",
+        "options": [
+            "Speed of the object",
+            "Weight of the object",
+            "Surface roughness",
+            "Both b and c"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "5. Which of these is not an example of friction?",
+        "options": [
+            "Walking on the ground",
+            "Slipping on ice",
+            "Wheels of a car",
+            "Water flowing in pipes"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "6. Which of these forces is responsible for keeping the Earth in orbit around the Sun?",
+        "options": [
+            "Friction",
+            "Magnetic force",
+            "Gravitational force",
+            "Centripetal force"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "7. What is the unit of force in SI system?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Meter",
+            "Kilogram"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "8. The friction between a moving object and the surface it moves on is called:",
+        "options": [
+            "Static friction",
+            "Kinetic friction",
+            "Rolling friction",
+            "Fluid friction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "9. The frictional force is greatest when:",
+        "options": [
+            "The object is at rest",
+            "The object is in motion",
+            "The object is in water",
+            "The object is at a high speed"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "10. Which of the following is a method to reduce friction?",
+        "options": [
+            "Lubrication",
+            "Polishing",
+            "Use of wheels",
+            "All of the above"
+        ],
+        "answer": 3
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. What is the SI unit of work?",
+        "options": ["Joule", "Newton", "Watt", "Kelvin"],
+        "answer": 0
+    },
+    {
+        "question": "2. Work is done when a force is applied on an object and it moves in the direction of the force. This is called:",
+        "options": ["Negative work", "Positive work", "Zero work", "Retarded work"],
+        "answer": 1
+    },
+    {
+        "question": "3. Which of these is an example of work being done?",
+        "options": ["A person pushing a car and the car moves", "A person pushing a car and the car doesn't move", "A person lifting an object and holding it still", "A person standing still"],
+        "answer": 0
+    },
+    {
+        "question": "4. Energy is the ability to do work. The SI unit of energy is:",
+        "options": ["Joule", "Newton", "Kilogram", "Meter"],
+        "answer": 0
+    },
+    {
+        "question": "5. Which of the following is a form of potential energy?",
+        "options": ["Kinetic energy", "Chemical energy", "Gravitational energy", "Sound energy"],
+        "answer": 2
+    },
+    {
+        "question": "6. Kinetic energy depends on:",
+        "options": ["Mass", "Velocity", "Height", "Both mass and velocity"],
+        "answer": 3
+    },
+    {
+        "question": "7. The energy possessed by an object due to its motion is called:",
+        "options": ["Potential energy", "Kinetic energy", "Elastic energy", "Heat energy"],
+        "answer": 1
+    },
+    {
+        "question": "8. What is the work-energy theorem?",
+        "options": ["Work done is equal to the change in energy", "Work done is equal to the energy applied", "Work done is proportional to the distance", "Work done equals force multiplied by acceleration"],
+        "answer": 0
+    },
+    {
+        "question": "9. When a body moves in a circular path, its energy remains constant because:",
+        "options": ["It is only potential energy", "It is only kinetic energy", "It is both potential and kinetic energy", "It loses energy"],
+        "answer": 2
+    },
+    {
+        "question": "10. A car of mass 1000 kg is moving at a speed of 20 m/s. What is its kinetic energy?",
+        "options": ["10000 J", "20000 J", "50000 J", "40000 J"],
+        "answer": 3
+    }
+]

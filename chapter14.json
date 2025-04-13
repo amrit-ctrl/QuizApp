@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. Which of these is a renewable resource?",
+        "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+        "answer": 2
+    },
+    {
+        "question": "2. The primary source of energy for plants is:",
+        "options": ["Wind", "Sunlight", "Water", "Soil"],
+        "answer": 1
+    },
+    {
+        "question": "3. Which of the following is a non-renewable resource?",
+        "options": ["Wind", "Biomass", "Coal", "Hydropower"],
+        "answer": 2
+    },
+    {
+        "question": "4. Deforestation leads to:",
+        "options": ["Soil erosion", "Global warming", "Loss of biodiversity", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "5. Which of these is a method of water conservation?",
+        "options": ["Rainwater harvesting", "Building dams", "Drip irrigation", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "6. What is the main cause of soil erosion?",
+        "options": ["Heavy rainfall", "Deforestation", "Overgrazing by animals", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "7. Wind energy is considered a:",
+        "options": ["Non-renewable resource", "Renewable resource", "Non-environmentally friendly resource", "All of the above"],
+        "answer": 1
+    },
+    {
+        "question": "8. Which is the largest carbon emitter?",
+        "options": ["Forests", "Vehicles", "Factories", "Buildings"],
+        "answer": 2
+    },
+    {
+        "question": "9. Which of these resources is a fossil fuel?",
+        "options": ["Wind", "Coal", "Solar", "Geothermal"],
+        "answer": 1
+    },
+    {
+        "question": "10. Sustainable development aims to:",
+        "options": ["Increase resource consumption", "Reduce resource consumption", "Balance resource consumption with conservation", "Exploit resources faster"],
+        "answer": 2
+    }
+]

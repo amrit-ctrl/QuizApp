@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Who proposed the five kingdom classification?",
+        "options": [
+            "Linnaeus",
+            "Whittaker",
+            "Haeckel",
+            "Darwin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "2. Which kingdom includes unicellular prokaryotic organisms?",
+        "options": [
+            "Protista",
+            "Fungi",
+            "Monera",
+            "Plantae"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "3. Which of these is a non-flowering plant?",
+        "options": [
+            "Mango",
+            "Fern",
+            "Mustard",
+            "Rose"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "4. Amphibians can live:",
+        "options": [
+            "Only in water",
+            "Only on land",
+            "On land and in water",
+            "In air"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "5. Which organism belongs to phylum Mollusca?",
+        "options": [
+            "Earthworm",
+            "Snail",
+            "Starfish",
+            "Lizard"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "6. Which of these has a notochord?",
+        "options": [
+            "Human",
+            "Snail",
+            "Earthworm",
+            "Cockroach"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "7. Which phylum does an octopus belong to?",
+        "options": [
+            "Mollusca",
+            "Arthropoda",
+            "Chordata",
+            "Annelida"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "8. Which group of animals lays eggs?",
+        "options": [
+            "Mammals",
+            "Reptiles",
+            "Amphibians",
+            "Birds"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "9. The skeleton of a shark is made of:",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Shell",
+            "Muscles"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "10. Which of these is a mammal?",
+        "options": [
+            "Frog",
+            "Lizard",
+            "Bat",
+            "Snake"
+        ],
+        "answer": 2
+    }
+]

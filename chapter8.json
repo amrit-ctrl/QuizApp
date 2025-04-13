@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. Which of the following is the SI unit of distance?",
+        "options": [
+            "Kilometre",
+            "Metre",
+            "Centimetre",
+            "Millimetre"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "2. What is the SI unit of speed?",
+        "options": [
+            "km/h",
+            "m/s",
+            "cm/s",
+            "m/min"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "3. Which type of motion is shown by a pendulum?",
+        "options": [
+            "Rectilinear",
+            "Circular",
+            "Oscillatory",
+            "Random"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "4. If an object covers equal distance in equal intervals, it is said to be in:",
+        "options": [
+            "Uniform motion",
+            "Non-uniform motion",
+            "Vibratory motion",
+            "Rotatory motion"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "5. Distance is a:",
+        "options": [
+            "Vector",
+            "Scalar",
+            "Both",
+            "None"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "6. The slope of a distance-time graph gives:",
+        "options": [
+            "Acceleration",
+            "Speed",
+            "Displacement",
+            "Force"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "7. What does a horizontal line on velocity-time graph represent?",
+        "options": [
+            "Constant speed",
+            "Acceleration",
+            "Retardation",
+            "Rest"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "8. The area under velocity-time graph represents:",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Displacement",
+            "Acceleration"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "9. Which of the following is a vector quantity?",
+        "options": [
+            "Distance",
+            "Speed",
+            "Displacement",
+            "Area"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "10. If an object is moving with constant acceleration, its velocity-time graph is:",
+        "options": [
+            "Curved",
+            "Straight line",
+            "Zigzag",
+            "Circle"
+        ],
+        "answer": 1
+    }
+]

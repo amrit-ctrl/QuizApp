@@ -1,0 +1,102 @@
+[
+    {
+        "question": "The smallest particle of an element is called:",
+        "options": [
+            "Atom",
+            "Molecule",
+            "Ion",
+            "Radical"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The atomic theory was proposed by:",
+        "options": [
+            "Rutherford",
+            "Dalton",
+            "Bohr",
+            "Thomson"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The molecular formula of water is:",
+        "options": [
+            "HO",
+            "H2O",
+            "HO2",
+            "H2O2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The valency of oxygen is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The atomic number is equal to:",
+        "options": [
+            "Number of neutrons",
+            "Number of protons",
+            "Number of electrons",
+            "Both protons and electrons"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The chemical symbol for potassium is:",
+        "options": [
+            "Pt",
+            "Po",
+            "K",
+            "P"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of these is a diatomic molecule?",
+        "options": [
+            "Neon",
+            "Carbon",
+            "Oxygen",
+            "Sulfur"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The formula unit mass of NaCl is:",
+        "options": [
+            "23.5 u",
+            "58.5 u",
+            "35.5 u",
+            "40 u"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Avogadro's number is:",
+        "options": [
+            "6.022 × 10²²",
+            "6.022 × 10²³",
+            "6.022 × 10²⁴",
+            "6.022 × 10²⁵"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The mass of 1 mole of hydrogen atoms is:",
+        "options": [
+            "1 g",
+            "2 g",
+            "3 g",
+            "4 g"
+        ],
+        "answer": 0
+    }
+]

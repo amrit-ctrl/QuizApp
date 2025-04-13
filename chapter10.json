@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is the acceleration due to gravity on Earth?",
+        "options": [
+            "9.8 m/s\u00b2",
+            "10 m/s\u00b2",
+            "8.9 m/s\u00b2",
+            "9 m/s\u00b2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "2. The force of gravity acts on:",
+        "options": [
+            "Only objects on Earth",
+            "All objects with mass",
+            "Only heavy objects",
+            "Only light objects"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "3. The weight of an object is the force of gravity acting on it. What is the formula for weight?",
+        "options": [
+            "W = mg",
+            "W = m/g",
+            "W = m \u00d7 g\u00b2",
+            "W = g \u00d7 m"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "4. What does the term 'free fall' mean?",
+        "options": [
+            "An object falling without any resistance",
+            "An object falling at a constant speed",
+            "An object moving upward",
+            "An object in motion"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "5. If a body is thrown upwards, its velocity becomes zero at:",
+        "options": [
+            "At the ground",
+            "At its highest point",
+            "At the middle point",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "6. An object in free fall accelerates at a rate of:",
+        "options": [
+            "9.8 m/s\u00b2",
+            "10 m/s\u00b2",
+            "5 m/s\u00b2",
+            "2 m/s\u00b2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "7. Which force is responsible for pulling objects towards the Earth?",
+        "options": [
+            "Friction",
+            "Gravitational force",
+            "Electrostatic force",
+            "Magnetic force"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "8. The force acting on an object due to gravity is called its:",
+        "options": [
+            "Mass",
+            "Weight",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "9. An object weighs less on the Moon than on Earth because the:",
+        "options": [
+            "Moon has no gravity",
+            "Moon's gravitational force is weaker",
+            "Moon is farther from the Earth",
+            "Moon has no atmosphere"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "10. The gravitational force between two objects depends on their:",
+        "options": [
+            "Distance and mass",
+            "Size and shape",
+            "Weight",
+            "Density"
+        ],
+        "answer": 0
+    }
+]

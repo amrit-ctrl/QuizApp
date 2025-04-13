@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the chemical formula of Water?",
+        "options": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "O2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which cell organelle is called the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Chloroplast"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not a state of matter?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the process of conversion of gas to liquid called?",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Sublimation",
+            "Freezing"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which state of matter has no fixed shape but has fixed volume?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What happens to particles when temperature increases?",
+        "options": [
+            "They stop moving",
+            "They move slower",
+            "They vibrate more",
+            "They disappear"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which state of matter can be easily compressed?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The smell of perfume spreads due to which phenomenon?",
+        "options": [
+            "Osmosis",
+            "Diffusion",
+            "Sublimation",
+            "Evaporation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Boiling point of water is?",
+        "options": [
+            "0\u00b0C",
+            "50\u00b0C",
+            "100\u00b0C",
+            "120\u00b0C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which process converts solid directly to gas?",
+        "options": [
+            "Evaporation",
+            "Sublimation",
+            "Condensation",
+            "Melting"
+        ],
+        "answer": 1
+    }
+]

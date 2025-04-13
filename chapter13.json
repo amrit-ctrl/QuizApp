@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. What is the cause of infectious diseases?",
+        "options": ["Bacteria", "Viruses", "Fungi", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "2. Which of the following is an example of a vector-borne disease?",
+        "options": ["Malaria", "Tuberculosis", "Cancer", "Asthma"],
+        "answer": 0
+    },
+    {
+        "question": "3. Diseases caused by the intake of contaminated food and water are called:",
+        "options": ["Infectious diseases", "Foodborne diseases", "Waterborne diseases", "Both b and c"],
+        "answer": 3
+    },
+    {
+        "question": "4. Which of these is a non-communicable disease?",
+        "options": ["Common cold", "Malaria", "Cancer", "Chickenpox"],
+        "answer": 2
+    },
+    {
+        "question": "5. The mode of transmission for HIV is:",
+        "options": ["Airborne", "Direct contact", "Waterborne", "Blood and body fluids"],
+        "answer": 3
+    },
+    {
+        "question": "6. The most common way of transmission of diseases like tuberculosis is:",
+        "options": ["Direct contact", "Vector", "Droplets in the air", "Contaminated food"],
+        "answer": 2
+    },
+    {
+        "question": "7. Which of the following is a way to prevent the spread of infectious diseases?",
+        "options": ["Vaccination", "Hand washing", "Proper sanitation", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "8. What is the cause of typhoid fever?",
+        "options": ["Bacteria", "Virus", "Fungi", "Parasites"],
+        "answer": 0
+    },
+    {
+        "question": "9. The spread of diseases through air is an example of:",
+        "options": ["Direct transmission", "Vector transmission", "Airborne transmission", "Waterborne transmission"],
+        "answer": 2
+    },
+    {
+        "question": "10. Which of these is not a vector for disease transmission?",
+        "options": ["Mosquitoes", "Rats", "House flies", "Trees"],
+        "answer": 3
+    }
+]
