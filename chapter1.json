@@ -1,102 +1,102 @@
 [
     {
         "question": "What is the chemical formula of Water?",
-        "options": [
-            "H2O",
-            "CO2",
-            "NaCl",
-            "O2"
-        ],
+        "options": ["H2O", "CO2", "NaCl", "O2"],
         "answer": 0
     },
     {
         "question": "Which cell organelle is called the powerhouse of the cell?",
-        "options": [
-            "Nucleus",
-            "Mitochondria",
-            "Ribosome",
-            "Chloroplast"
-        ],
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
         "answer": 1
     },
     {
         "question": "Which of the following is not a state of matter?",
-        "options": [
-            "Solid",
-            "Liquid",
-            "Gas",
-            "Plasma"
-        ],
+        "options": ["Solid", "Liquid", "Gas", "Plasma"],
         "answer": 3
     },
     {
         "question": "What is the process of conversion of gas to liquid called?",
-        "options": [
-            "Evaporation",
-            "Condensation",
-            "Sublimation",
-            "Freezing"
-        ],
+        "options": ["Evaporation", "Condensation", "Sublimation", "Freezing"],
         "answer": 1
     },
     {
         "question": "Which state of matter has no fixed shape but has fixed volume?",
-        "options": [
-            "Solid",
-            "Liquid",
-            "Gas",
-            "Plasma"
-        ],
+        "options": ["Solid", "Liquid", "Gas", "Plasma"],
         "answer": 1
     },
     {
         "question": "What happens to particles when temperature increases?",
-        "options": [
-            "They stop moving",
-            "They move slower",
-            "They vibrate more",
-            "They disappear"
-        ],
+        "options": ["They stop moving", "They move slower", "They vibrate more", "They disappear"],
         "answer": 2
     },
     {
         "question": "Which state of matter can be easily compressed?",
-        "options": [
-            "Solid",
-            "Liquid",
-            "Gas",
-            "Plasma"
-        ],
+        "options": ["Solid", "Liquid", "Gas", "Plasma"],
         "answer": 2
     },
     {
         "question": "The smell of perfume spreads due to which phenomenon?",
-        "options": [
-            "Osmosis",
-            "Diffusion",
-            "Sublimation",
-            "Evaporation"
-        ],
+        "options": ["Osmosis", "Diffusion", "Sublimation", "Evaporation"],
         "answer": 1
     },
     {
         "question": "Boiling point of water is?",
-        "options": [
-            "0\u00b0C",
-            "50\u00b0C",
-            "100\u00b0C",
-            "120\u00b0C"
-        ],
+        "options": ["0°C", "50°C", "100°C", "120°C"],
         "answer": 2
     },
     {
         "question": "Which process converts solid directly to gas?",
-        "options": [
-            "Evaporation",
-            "Sublimation",
-            "Condensation",
-            "Melting"
-        ],
+        "options": ["Evaporation", "Sublimation", "Condensation", "Melting"],
         "answer": 1
+    },
+    {
+        "question": "Which process involves change of liquid into vapor without reaching boiling point?",
+        "options": ["Evaporation", "Boiling", "Condensation", "Melting"],
+        "answer": 0
+    },
+    {
+        "question": "Which state of matter has maximum kinetic energy?",
+        "options": ["Solid", "Liquid", "Gas", "Plasma"],
+        "answer": 3
+    },
+    {
+        "question": "Which factor affects the rate of evaporation?",
+        "options": ["Surface area", "Temperature", "Wind speed", "All of these"],
+        "answer": 3
+    },
+    {
+        "question": "Dry ice is the solid form of which gas?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is an endothermic process?",
+        "options": ["Freezing", "Condensation", "Melting", "Deposition"],
+        "answer": 2
+    },
+    {
+        "question": "At what temperature does water freeze?",
+        "options": ["0°C", "100°C", "25°C", "37°C"],
+        "answer": 0
+    },
+    {
+        "question": "What is the physical state of water at 100°C?",
+        "options": ["Solid", "Liquid", "Gas", "Both liquid and gas"],
+        "answer": 3
+    },
+    {
+        "question": "The rate of diffusion is fastest in which state of matter?",
+        "options": ["Solid", "Liquid", "Gas", "Plasma"],
+        "answer": 2
+    },
+    {
+        "question": "Which process is used to separate mixture of salt and water?",
+        "options": ["Filtration", "Distillation", "Evaporation", "Sedimentation"],
+        "answer": 2
+    },
+    {
+        "question": "Particles of matter are continuously moving. This is due to:",
+        "options": ["Inertia", "Intermolecular force", "Kinetic energy", "Density"],
+        "answer": 2
     }
 ]
