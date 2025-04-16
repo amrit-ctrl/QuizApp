@@ -1,9 +1,5 @@
 [
-    {
-        "question": "What is the chemical formula of Water?",
-        "options": ["H2O", "CO2", "NaCl", "O2"],
-        "answer": 0
-    },
+
     {
         "question": "Which cell organelle is called the powerhouse of the cell?",
         "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
