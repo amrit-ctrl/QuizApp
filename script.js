@@ -80,6 +80,12 @@ function showChapterSelection() {
                         Chapter ${chapter}
                     </button>`
                     ).join('')}
+                
+                <!-- Privacy Policy Button -->
+                <button class="chapter-btn" onclick="window.open('https://vaibhavshukla221.github.io/ncert-quiz/privacy.html', '_blank')">
+                    <i class="fas fa-shield-alt"></i>
+                    Privacy Policy
+                </button>
             </div>
         </div>
     `;
