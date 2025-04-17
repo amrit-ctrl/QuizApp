@@ -351,6 +351,14 @@ header {
     transform: translateY(-3px);
 }
 
+/* Privacy Policy Button Styles */
+.chapter-btn .fa-shield-alt {
+    color: #6c757d;
+}
+
+.chapter-btn:hover .fa-shield-alt {
+    color: white;
+}
 @keyframes bounce {
     from {
         transform: translateY(0);
